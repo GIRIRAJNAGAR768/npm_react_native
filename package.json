@@ -1,7 +1,7 @@
 {
-  "name": "npm_react_native",
+  "name": "npm-rn-test",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -33,5 +33,17 @@
   },
   "engines": {
     "node": ">=16"
-  }
+  },
+  "description": "This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GIRIRAJNAGAR768/npm_react_native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GIRIRAJNAGAR768/npm_react_native/issues"
+  },
+  "homepage": "https://github.com/GIRIRAJNAGAR768/npm_react_native#readme"
 }
